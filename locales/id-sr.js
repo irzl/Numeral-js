@@ -11,7 +11,7 @@
     factory(global.numeral);
   }
 }(this, function (numeral) {
-  numeral.register("locale", "id", {
+  numeral.register("locale", "id-sr", {
     delimiters: {
       thousands: ".",
       decimal: ","
